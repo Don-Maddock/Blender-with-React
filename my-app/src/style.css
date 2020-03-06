@@ -1,0 +1,46 @@
+.ui.borderless.topmenu.menu {
+  border:none;
+  box-shadow: none;
+}
+
+.ui.borderless.download.menu {
+  border:none;
+  box-shadow: none;
+  font-size: 20px;
+  margin-bottom: 30px;
+}
+.grad-background {
+  background: url('https://www.blender.org/wp-content/uploads/2020/02/dedouze-tramstation-splashscreen-low.jpg?x99481');
+  background-size: cover;
+  background-position-y: center;
+  height: 400px;
+}
+.grad-background h1 {
+  color: white;
+  background-color: black;
+  border-radius: 10px;
+  font-size: 48px;
+  padding-left: 20px;
+  margin-right: 55%;
+  margin-bottom: 0;
+}
+.grad-background p {
+  color: white;
+  background-color: black;
+  border-radius: 10px;
+  font-size: 18px;
+  padding-left: 20px;
+  margin-right: 60%;
+}
+
+.ui.blue.button {
+  border: 0px 0px 0px 0px;
+  background-color: #13b6fb;
+}
+.footer {
+  background-color: lightgray;
+}
+.footer p {
+  color: #9E9FA2;
+  margin: 5px 0px 5px 0px;
+}
